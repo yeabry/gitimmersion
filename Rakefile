@@ -4,4 +4,4 @@ task :default => :run
 
 task :run do
   require './lib/hello'
-endgit 
+end
